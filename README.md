@@ -19,4 +19,4 @@ I feel like I'm being creeped on right now.
 ⚡ Fun fact:Hey, programmers, don’t forget to do your pelvic floor exercises!
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorahil&layout=compact)
+
