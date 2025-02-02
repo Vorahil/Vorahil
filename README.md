@@ -20,4 +20,5 @@ I feel like I'm being creeped on right now.
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorahil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vorahil&layout=compact&t=20250202)
+
